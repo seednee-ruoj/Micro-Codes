@@ -1,4 +1,4 @@
-int LEDR = 2;
+int LEDR = 3;
 
 void setup()
 {
